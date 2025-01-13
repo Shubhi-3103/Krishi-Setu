@@ -1,4 +1,4 @@
-#*Krishi Setu: Bridging Technology and Agriculture*
+Krishi Setu: Bridging Technology and Agriculture*
 Krishi Setu is an initiative aimed at improving agricultural practices in India by integrating traditional farming methods with modern technologies. The program leverages advancements in AI, IoT, and real-time data to boost productivity, enhance crop yields, and increase farmers' incomes while promoting sustainable farming practices.
 
 This repository contains code, resources, and tools associated with Krishi Setu, focusing on:
